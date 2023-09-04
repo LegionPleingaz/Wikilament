@@ -5,7 +5,7 @@
 | :--- | :---: | :---: | :---: |
 | PLA+ | WIP| Yes | Yes |
 | PETG | | Yes | Yes |
-| ABS | | | |
+| ABS | | | Yes |
 | ePLA lite | | | |
 | eTPU95A | | | |
 | ePLA HS | | | |

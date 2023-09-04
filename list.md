@@ -1,4 +1,21 @@
 <details>
+<summary>eSUN</summary>
+
+| Name | Ini  | Technical data | Safety data |
+| :--- | :---: | :---: | :---: |
+| PLA+ | | |
+| PETG | | |
+| ABS | | |
+| ePLA lite | | |
+| eTPU95A | | |
+| ePLA HS | | |
+| PLA | | |
+| ABS+ | | |
+| eABS MAX | | |
+
+</details>
+
+<details>
 <summary>KVP</summary>
 
 | Name | Ini  | Technical data | Safety data |

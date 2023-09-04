@@ -13,8 +13,11 @@
 | Name | Ini  | Technical data | Safety data |
 | :--- | :---: | :---: | :---: |
 | ABS | No | Yes  | Yes |
+| PC blend| No | Yes | Yes |
+| PC blend CF| No | Yes | Yes |
 | PETG | Yes | Yes  | Yes |
 | PETG CF | Yes | Yes  | Yes |
+| PETG V0 | WIP | Yes  | Yes |
 | PLA  | Yes | Yes  | Yes |
 | PVB  | Yes | No  | No |
 | | | |

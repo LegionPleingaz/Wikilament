@@ -4,7 +4,7 @@
 | Name | Ini  | Technical data | Safety data |
 | :--- | :---: | :---: | :---: |
 | PLA+ | WIP| Yes | Yes |
-| PETG | | | |
+| PETG | | Yes | Yes |
 | ABS | | | |
 | ePLA lite | | | |
 | eTPU95A | | | |

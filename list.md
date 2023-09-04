@@ -8,7 +8,7 @@
 | ABS | | | Yes |
 | ePLA lite | | | |
 | eTPU95A | | | |
-| ePLA HS | | | |
+| ePLA HS | | Yes | Yes |
 | PLA | | | |
 | ABS+ | | Yes | Yes |
 | eABS MAX | | | |

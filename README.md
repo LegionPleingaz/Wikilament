@@ -3,7 +3,7 @@
 
 Welcome to the 3D Printing Settings Database project! This project aims to gather and share a collection of configuration presets for use with PrusaSlicer, a popular 3D printing software. These predefined settings will streamline the printing process by providing tested configurations for various scenarios.
 
-[All filaments](../list.md)
+[All filaments](list.md)
 
 
 ## How to Use the Settings

@@ -5,7 +5,7 @@ Welcome to the 3D Printing Settings Database project! This project aims to gathe
 
 ## How to Use the Settings
 
-1. Clone this repository to your local computer 
+1. Download the latest wikiterial[version].ini file.
 
 2. Open PrusaSlicer on your machine.
 
@@ -26,13 +26,18 @@ We encourage community contributions to enhance and expand this settings databas
 
 3. Create a new branch for your changes
 
-4. Make your changes and add your new settings files.
+4. Make your changes and:
+       add your new settings files in WIP folder
+       add Tech data and safety data in techdata folder
+       add your filament in list.md
 
-5. Commit your changes
+6. Commit your changes
 
-6. Push your changes to your fork
+7. Push your changes to your fork
 
-7. Then open a Pull Request to this repository, explaining your modifications. We will carefully review your contributions.
+8. Then open a Pull Request to this repository, explaining your modifications. We will carefully review your contributions.
+
+9. Send me a beer 
 
 ## Note
 

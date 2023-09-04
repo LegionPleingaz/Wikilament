@@ -10,7 +10,7 @@
 | eTPU95A | | | |
 | ePLA HS | | | |
 | PLA | | | |
-| ABS+ | | | |
+| ABS+ | | Yes | Yes |
 | eABS MAX | | | |
 
 </details>

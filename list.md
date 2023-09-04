@@ -3,15 +3,15 @@
 
 | Name | Ini  | Technical data | Safety data |
 | :--- | :---: | :---: | :---: |
-| PLA+ | | |
-| PETG | | |
-| ABS | | |
-| ePLA lite | | |
-| eTPU95A | | |
-| ePLA HS | | |
-| PLA | | |
-| ABS+ | | |
-| eABS MAX | | |
+| PLA+ | WIP| Yes | Yes |
+| PETG | | | |
+| ABS | | | |
+| ePLA lite | | | |
+| eTPU95A | | | |
+| ePLA HS | | | |
+| PLA | | | |
+| ABS+ | | | |
+| eABS MAX | | | |
 
 </details>
 

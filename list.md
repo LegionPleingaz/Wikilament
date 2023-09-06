@@ -1,10 +1,41 @@
 <details>
+<summary>eSUN</summary>
 
-<summary>###Prusament</summary>
+| Name | Ini  | Technical data | Safety data |
+| :--- | :---: | :---: | :---: |
+| PLA+ | WIP| Yes | Yes |
+| PETG | | Yes | Yes |
+| ABS | | | Yes |
+| ePLA lite | | | |
+| eTPU95A | | | |
+| ePLA HS | | Yes | Yes |
+| PLA | | | |
+| ABS+ | | Yes | Yes |
+| eABS MAX | | | |
 
-| Ini  | Technical data | Safety data |
-| ------------- | ------------- | ------------- |
-| Prusament PLA  | Yes  | Yes |
-| Prusament ABS | Yes  | Yes |
-| | |
+</details>
+
+<details>
+<summary>KVP</summary>
+
+| Name | Ini  | Technical data | Safety data |
+| :--- | :---: | :---: | :---: |
+| ABS | Yes | No  | No |
+| | | |
+</details>
+
+<details>
+<summary>Prusament</summary>
+
+| Name | Ini  | Technical data | Safety data |
+| :--- | :---: | :---: | :---: |
+| ABS | No | Yes  | Yes |
+| PC blend| No | Yes | Yes |
+| PC blend CF| No | Yes | Yes |
+| PETG | Yes | Yes  | Yes |
+| PETG CF | Yes | Yes  | Yes |
+| PETG V0 | WIP | Yes  | Yes |
+| PLA  | Yes | Yes  | Yes |
+| PVB  | Yes | No  | No |
+| | | |
 </details>

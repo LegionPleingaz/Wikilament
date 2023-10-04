@@ -3,7 +3,47 @@
 
 Welcome to the 3D Printing Settings Database project! This project aims to gather and share a collection of configuration presets for use with PrusaSlicer, a popular 3D printing software. These predefined settings will streamline the printing process by providing tested configurations for various scenarios.
 
-[All filaments](list.md)
+[<details>
+<summary>eSUN</summary>
+
+| Name | Ini  | Technical data | Safety data |
+| :--- | :---: | :---: | :---: |
+| PLA+ | WIP| Yes | Yes |
+| PETG | | Yes | Yes |
+| ABS | | | Yes |
+| ePLA lite | | | |
+| eTPU95A | | | |
+| ePLA HS | | Yes | Yes |
+| PLA | | | |
+| ABS+ | | Yes | Yes |
+| eABS MAX | | | |
+
+</details>
+
+<details>
+<summary>KVP</summary>
+
+| Name | Ini  | Technical data | Safety data |
+| :--- | :---: | :---: | :---: |
+| ABS | Yes | No  | No |
+| | | |
+</details>
+
+<details>
+<summary>Prusament</summary>
+
+| Name | Ini  | Technical data | Safety data |
+| :--- | :---: | :---: | :---: |
+| ABS | No | Yes  | Yes |
+| PC blend| No | Yes | Yes |
+| PC blend CF| No | Yes | Yes |
+| PETG | Yes | Yes  | Yes |
+| PETG CF | Yes | Yes  | Yes |
+| PETG V0 | WIP | Yes  | Yes |
+| PLA  | Yes | Yes  | Yes |
+| PVB  | Yes | No  | No |
+| | | |
+</details>
 
 
 ## How to Use the Settings

@@ -4,6 +4,16 @@
 Welcome to the 3D Printing Settings Database project! This project aims to gather and share a collection of configuration presets for use with PrusaSlicer, a popular 3D printing software. These predefined settings will streamline the printing process by providing tested configurations for various scenarios.
 
 <details>
+<summary>Amazon basics</summary>
+
+| Name | Ini  | Technical data | Safety data |
+| :--- | :---: | :---: | :---: |
+| PLA+ | | NO | NO |
+| ABS | | NO | NO |
+
+</details>
+
+<details>
 <summary>eSUN</summary>
 
 | Name | Ini  | Technical data | Safety data |

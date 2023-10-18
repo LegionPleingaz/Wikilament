@@ -40,13 +40,18 @@ We encourage community contributions to enhance and expand this settings databas
 
 8. Then open a Pull Request to this repository, explaining your modifications. We will carefully review your contributions.
 
-9. Send me a beer 
+9. Send me a beer.
 
 ## Note
 
 Please ensure you respect the licenses and copyrights of the settings you share. Any content submitted to this project must be compatible with open-source licenses.
 
 We're excited to see how this project will evolve with your contributions. Thank you for contributing to the 3D printing community!
+
+
+## Beer donation
+
+BTC 3FVdXPVJmbtu8go9oTdHLNJm5YgrdgUQFd
 
 ---
 
